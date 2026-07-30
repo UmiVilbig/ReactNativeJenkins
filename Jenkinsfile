@@ -7,6 +7,7 @@ pipeline {
     KEYCHAIN_PASSWORD = credentials('mac-keychain-pw')
     ASC_KEY_ID = credentials('asc-key-id')
     ASC_ISSUER_ID = credentials('asc-issuer-id')
+    PATH = "/opt/homebrew/bin:${env.PATH}"
   }
 
   stages {
