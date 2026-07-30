@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     LANG = 'en_US.UTF-8'
-    APP_NAME = 'ReactNaitveJenkins'
+    APP_NAME = 'ReactNativeJenkins'
     KEYCHAIN_PASSWORD = credentials('mac-keychain-pw')
     ASC_KEY_ID = credentials('asc-key-id')
     ASC_ISSUER_ID = credentials('asc-issuer-id')

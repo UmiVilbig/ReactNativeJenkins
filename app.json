@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "ReactNaitveJenkins",
-    "slug": "ReactNaitveJenkins",
+    "name": "ReactNativeJenkins",
+    "slug": "ReactNativeJenkins",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnaitvejenkins",
+    "scheme": "reactnativejenkins",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.reactnaitvejenkins.app",
+      "bundleIdentifier": "com.ReactNativejenkins.app",
       "appleTeamId": "D85927K2F9"
     },
     "android": {
