@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.reactnaitvejenkins.app"
+      "bundleIdentifier": "com.reactnaitvejenkins.app",
+      "appleTeamId": "D85927K2F9"
     },
     "android": {
       "adaptiveIcon": {
