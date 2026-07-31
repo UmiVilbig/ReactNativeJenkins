@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This application was modified with the addition of a Jenkinsfile to enable CI/CD with Jenkins. The full documentation on the setup of the pipeline and build environments can be found on my LinkedIn.
 
 ## Get started
 
@@ -10,7 +10,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
+2. Update exportOptions.plist with your teamID found on your Apple Developer account.
+
+3. Update app.json with your teamID found on your Apple Developer account.
+
+4. Configure your Jenkins pipeline
+
+5. Start the app
 
    ```bash
    npx expo start
