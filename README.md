@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This application was modified with the addition of a Jenkinsfile to enable CI/CD with Jenkins. The full documentation on the setup of the pipeline and build environments can be found on my LinkedIn.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This application was modified with the addition of a Jenkinsfile to enable CI/CD with Jenkins. The full documentation on the setup of the pipeline and build environments can be found on my [LinkedIn](https://www.linkedin.com/pulse/automating-expo-react-native-builds-jenkins-umi-vilbig-zyjne/?published=t).
 
 ## Get started
 
@@ -50,7 +50,7 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-- Jenkins Pipeline Docs: Follow my LinkedIn article to setup your own iOS build server
+- [Jenkins Pipeline Docs](https://www.linkedin.com/pulse/automating-expo-react-native-builds-jenkins-umi-vilbig-zyjne/?published=t): Follow my LinkedIn article to setup your own iOS build server
 
 ## Join the community
 
