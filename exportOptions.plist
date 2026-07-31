@@ -5,5 +5,7 @@
   <key>method</key><string>app-store-connect</string>
   <key>teamID</key><string>D85927K2F9</string>
   <key>signingStyle</key><string>automatic</string>
+  <key>destination</key><string>upload</string>
+  <key>manageAppVersionAndBuildNumber</key><true/>
 </dict>
 </plist>
