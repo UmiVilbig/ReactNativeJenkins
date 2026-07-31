@@ -74,7 +74,7 @@ pipeline {
 
   post {
     success {
-      archiveArtifacts artifacts: 'build/ipa/*.ipa', fingerprint: true
+      archiveArtifacts artifacts: 'build/ipa/*.ipa', allowEmptyArchive: true
     }
   }
 }
