@@ -11,11 +11,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 2. Update exportOptions.plist with your teamID found on your Apple Developer account.
-
 3. Update app.json with your teamID found on your Apple Developer account.
-
 4. Configure your Jenkins pipeline
-
 5. Start the app
 
    ```bash
@@ -43,9 +40,9 @@ This command will move the starter code to the **app-example** directory and cre
 
 ### Other setup steps
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+- To set up ESLint for linting, run `npx expo lint`, or follow our guide on [&#34;Using ESLint and Prettier&#34;](https://docs.expo.dev/guides/using-eslint/)
+- If you'd like to set up unit testing, follow our guide on [&#34;Unit Testing with Jest&#34;](https://docs.expo.dev/develop/unit-testing/)
+- Learn more about the TypeScript setup in this template in our guide on [&#34;Using TypeScript&#34;](https://docs.expo.dev/guides/typescript/)
 
 ## Learn more
 
@@ -53,6 +50,7 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Jenkins Pipeline Docs
 
 ## Join the community
 
